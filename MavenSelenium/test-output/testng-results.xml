@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="553" started-at="2019-05-14T13:27:50Z" finished-at="2019-05-14T13:27:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="553" started-at="2019-05-14T13:27:50Z" finished-at="2019-05-14T13:27:51Z">
+      <class name="MavenSelenium.MavenSelenium.ExtentReportsClass">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:MavenSelenium.MavenSelenium.ExtentReportsClass@731a74c]" name="startTest" is-config="true" duration-ms="291" started-at="2019-05-14T18:57:50Z" finished-at="2019-05-14T18:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="passTest()[pri:0, instance:MavenSelenium.MavenSelenium.ExtentReportsClass@731a74c]" name="passTest" duration-ms="9" started-at="2019-05-14T18:57:51Z" finished-at="2019-05-14T18:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passTest -->
+        <test-method status="PASS" signature="result(org.testng.ITestResult)[pri:0, instance:MavenSelenium.MavenSelenium.ExtentReportsClass@731a74c]" name="result" is-config="true" duration-ms="3" started-at="2019-05-14T18:57:51Z" finished-at="2019-05-14T18:57:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult: passTest STATUS:SUCCESS METHOD:ExtentReportsClass.passTest()[pri:0, instance:MavenSelenium.MavenSelenium.ExtentReportsClass@731a74c]]
+]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- result -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:MavenSelenium.MavenSelenium.ExtentReportsClass@731a74c]" name="endTest" is-config="true" duration-ms="236" started-at="2019-05-14T18:57:51Z" finished-at="2019-05-14T18:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- MavenSelenium.MavenSelenium.ExtentReportsClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
